@@ -1,0 +1,44 @@
+h1 {
+	width: 600px;
+	height: 50px;
+}
+img {
+	width: 200px;
+	height: 200px;
+
+}
+	.menus1  {
+		border: 10px  darkred double ;
+			width: 450px;
+		margin: 30px;
+		font-family: cursive;
+		font-size: 0.7em ;
+	}
+.menus2  {
+	border: 10px  darkred double ;
+
+	float: left;
+		margin-left: 600px;
+
+	width: 450px;
+		padding: 50px;
+	font-family: cursive;
+	font-size: 0.7em ;
+		height: 600px;
+
+}
+li{
+	margin-left: 50px;
+	display: inline;
+
+}
+
+
+.prix {
+display: inline ;
+right: auto ;
+}
+
+footer {background: darkred;
+
+}
